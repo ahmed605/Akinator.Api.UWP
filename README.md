@@ -1,6 +1,8 @@
 # Akinator.Api.UWP
 Ported from https://github.com/janniksam/Akinator.Api.Net with som little changes.
 
+[![NuGet version](https://badge.fury.io/nu/Akinator.UWP.svg)](https://badge.fury.io/nu/Akinator.UWP)
+
 ### Orignally created by [janniksam](https://github.com/janniksam)
 
 ## Supported Launguges
