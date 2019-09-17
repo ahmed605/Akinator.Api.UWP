@@ -15,11 +15,11 @@ dotnet_csproj:
   file_version: '{build}'
   informational_version: '{version}'
 before_build:
-- cmd: dotnet restore Akinator.Api.Net.sln
+- cmd: dotnet restore Akinator.UWP.sln
 build:
   verbosity: minimal
 after_build:
-- cmd: dotnet pack Akinator.Api.Net\Akinator.Api.Net.csproj
+- cmd: dotnet pack Akinator.UWP\Akinator.UWP.csproj
 artifacts:
 - path: '**\*.nupkg'
 deploy: off
