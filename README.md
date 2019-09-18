@@ -6,7 +6,8 @@ Ported from https://github.com/janniksam/Akinator.Api.Net with som little change
 ### Orignally created by [janniksam](https://github.com/janniksam)
 
 ## Supported Launguges
-* English (*Person*)
+* English (*Person*, *Object*, *Animal*)
+* France (*Person*, *Object*, *Animal*)
 * Arabic (*Person*)
 * Italian (*Person*)
 * Spanish (*Person*)
