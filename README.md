@@ -1,5 +1,5 @@
 # Akinator.Api.UWP
-Ported from https://github.com/janniksam/Akinator.Api.Net with som little changes.
+Ported from https://github.com/janniksam/Akinator.Api.Net with some little changes.
 
 [![NuGet version](https://badge.fury.io/nu/Akinator.UWP.svg)](https://badge.fury.io/nu/Akinator.UWP)
 
